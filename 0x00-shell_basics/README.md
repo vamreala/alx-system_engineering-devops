@@ -1,2 +1,2 @@
- #!bin/bash 
- not empty readme 
+#!/bin/bash
+ pwd
